@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table>
-<span style="color:red"> MVVM </span>
+<h1 style="color:purple;"> MVVM </h1>
 # JetPack Compose
 # Coroutine
 # Api of crypto currency
