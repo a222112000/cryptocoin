@@ -15,13 +15,13 @@
     </td>
   </tr>
 </table>
-# MVVM
-# JetPack Compose
-# Coroutine
-# Api of crypto currency
-# Clean Code Architecture used
-# Composer navigation
-# Mockk sample Testing
-# DI
-# Hilt
-# ViewModel
+#MVVM
+#JetPack Compose
+#Coroutine
+#Api of crypto currency
+#Clean Code Architecture used
+#Composer navigation
+#Mockk sample Testing
+#DI
+#Hilt
+#ViewModel
