@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table>
-# MVVM
+** MVVM
 # JetPack Compose
 # Coroutine
 # Api of crypto currency
